@@ -4,23 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0bce8c9543fe3c30",
+        "id": "384ccb2307c0c05d",
         "type": "tabs",
         "children": [
           {
-            "id": "fd085812e342e05e",
+            "id": "d7ecb183a1066633",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Overview-20241208185542147.webp"
+                "file": "Sniffing PMKID/Software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Overview-20241208185542147"
+              "icon": "lucide-file",
+              "title": "Software"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,10 +122,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Overview-20241208185542147.webp"
+                "file": "Sniffing PMKID/Software.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Overview-20241208185542147"
+              "title": "Outline of Software"
             }
           },
           {
@@ -232,12 +234,32 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "384c52cb79319154",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8665771fb419ffd4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
               "icon": "ag-node-list",
               "title": "Juggl nodes"
             }
           },
           {
-            "id": "384c52cb79319154",
+            "id": "dfb479b286a34994",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -267,20 +289,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6c994e66ece44a7b",
+  "active": "d7ecb183a1066633",
   "lastOpenFiles": [
-    "Sniffing PMKID",
+    "Sniffing PMKID/Hardware requirements.md",
+    "Sniffing PMKID/Software.md",
     "Overview.md",
+    "images/Hardware requirements-20241209152200635.webp",
+    "images/Hardware requirements-20241209152331730.webp",
+    "images/Overview-20241208185542147.webp",
+    "Sniffing PMKID",
     "images/Overview-20241208191023161.webp",
     "images/Overview-20241208190008434.webp",
     "images/Overview-20241208185846320.webp",
-    "images/Overview-20241208185542147.webp",
     "Overview-20241208185036232.webp",
     "images/Overview-20241208185217505.webp",
     "images",
     "Overview-20241208184014168.webp",
     "images/Overview-20241208184416068.webp",
-    "Overview-20241208184233897.webp",
     "NTLM RELAY/Task 48 - Ready your weapons.md",
     "index.md",
     "NTLM RELAY/Task 47 - Why not just turn it off?.md",
@@ -304,8 +329,6 @@
     "WEB APP EXPLOITATION/Task 29 - Thanks, I'll let myself in..md",
     "WEB APP EXPLOITATION/Task 13 - Remote Control Empanadas.md",
     "WEB APP EXPLOITATION/Task 12 -  What is this? Vulnversity?.md",
-    "WEB APP EXPLOITATION/Task 10 - What the Fuzz?.md",
-    "Images/Task 46 - Now you see me, now you don't-20241121143522528.webp",
     "NTLM RELAY",
     "PERSISTENCE",
     "SITUATIONAL AWARENESS",
@@ -313,7 +336,6 @@
     "docs/lib/metadata.json",
     "docs/lib/media",
     "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2"
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2"
   ]
 }

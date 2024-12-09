@@ -55,3 +55,4 @@ After a PMK was generated, we can generate a PMKID.
 - Once we generated a <font color="#7030a0">PMKID</font> equal to the <font color="#7030a0">PMKID</font> that was retrieved from the AP (Figure 2), the hash is cracked.
 - The <font color="#de7802">passphrases</font> that were used to generate the right <font color="#0070c0">PMK</font> that the <font color="#7030a0">PMKID</font> was generated from is the correct WiFi password.
 
+**Next step:** [[Hardware requirements]]
