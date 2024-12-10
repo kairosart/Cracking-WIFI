@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sniffing PMKID/Software.md",
+                "file": "Sniffing PMKID/Procedure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software"
+              "title": "Procedure"
+            }
+          },
+          {
+            "id": "f633318ea68a1c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sniffing PMKID/Procedure.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Procedure"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sniffing PMKID/Software.md"
+                "file": "Sniffing PMKID/Procedure.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Software"
+              "title": "Outline of Procedure"
             }
           },
           {
@@ -289,11 +305,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d7ecb183a1066633",
+  "active": "6c994e66ece44a7b",
   "lastOpenFiles": [
+    "Screenshot_2024-12-10_20-27-08.png",
+    "Overview.md",
+    "Sniffing PMKID/Procedure.md",
     "Sniffing PMKID/Hardware requirements.md",
     "Sniffing PMKID/Software.md",
-    "Overview.md",
+    "images/Procedure-20241210150945721.webp",
+    "Procedure-20241210150643412.webp",
     "images/Hardware requirements-20241209152200635.webp",
     "images/Hardware requirements-20241209152331730.webp",
     "images/Overview-20241208185542147.webp",
@@ -304,8 +324,6 @@
     "Overview-20241208185036232.webp",
     "images/Overview-20241208185217505.webp",
     "images",
-    "Overview-20241208184014168.webp",
-    "images/Overview-20241208184416068.webp",
     "NTLM RELAY/Task 48 - Ready your weapons.md",
     "index.md",
     "NTLM RELAY/Task 47 - Why not just turn it off?.md",
@@ -327,8 +345,6 @@
     "FLAG SUBMISSION/Task 4 - Flag Submission Panel.md",
     "POST EXPLOITATION/Task 14 - Meterpreter session 1 closed. Reason RUH ROH.md",
     "WEB APP EXPLOITATION/Task 29 - Thanks, I'll let myself in..md",
-    "WEB APP EXPLOITATION/Task 13 - Remote Control Empanadas.md",
-    "WEB APP EXPLOITATION/Task 12 -  What is this? Vulnversity?.md",
     "NTLM RELAY",
     "PERSISTENCE",
     "SITUATIONAL AWARENESS",
